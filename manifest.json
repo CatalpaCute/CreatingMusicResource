@@ -1,0 +1,17 @@
+﻿{
+    "format_version": 1,
+    "header": {
+        "description": "Creating Music1.3",
+        "name": "Creating音乐",
+        "uuid": "13033a9a-0a5b-40fd-8ba0-2c6069b634e7",
+        "version": [1, 0, 3]
+    },
+    "modules": [
+        {
+            "description": "114514",
+            "type": "resources",
+            "uuid":"39131ec3-4820-4c41-b829-ea8452d33114",
+            "version": [1, 0, 3]
+        }
+    ]
+}
