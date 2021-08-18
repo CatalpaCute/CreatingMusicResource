@@ -27,4 +27,4 @@ Creating服务器的一个资源包
 13. ward **阳光总在风雨后-许美静**
 
 PS：资源包内的音乐均从哔哩哔哩与酷狗下载，本资源包没有进行任何商业用途。
-PPS：本音乐包不包括Creating材质包，请自行前往[CreatingResource](https://github.com/linyushu520/CreatingResource/releases)
+PPS：本音乐包不包括Creating材质包，请自行前往[CreatingResource](https://github.com/linyushu520/CreatingResource/releases) 进行下载
