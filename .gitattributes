@@ -1,1 +1,2 @@
-*.json linguist-language=html
+*.json linguist-language=json
+*.ogg linguist-language=ogg
